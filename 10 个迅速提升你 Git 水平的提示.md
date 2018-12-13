@@ -21,7 +21,7 @@ my_db_config/
 <strong style="display:block;font-size:22px;margin:22px 0 10px">3.是谁弄乱了我的代码？</strong>
 <p>当事情出错时，先去指责别人是人类的天性之一。如果你的产品服务器挂了，使用<code>git blame</code>命令可以很容易找出罪魁祸首。这个命令可以将文件中的每一行的作者、最新的变更提交和提交时间展示出来。</p>
 <pre class="prettyprint"><code>git blame [file_name]</code></pre>
-<p><img title=10个迅速提升你Git水平的提示_ 图片1 class="lazyload" src="http://http://img.mukewang.com/55bf10060001f77608330179.png" alt="图片描述" /></p>
+<p><img title=10个迅速提升你Git水平的提示_ 图片1 class="lazyload" src="http://img.mukewang.com/55bf10060001f77608330179.png" alt="图片描述" /></p>
 <p>在下面的截图中你可以看到命令是如何在更大的目录中搜寻。</p>
 <p><img title=10个迅速提升你Git水平的提示_ 图片2 class="lazyload" src="http://img.mukewang.com/55bf101a0001c36d08000314.png" alt="图片描述" /></p>
 <strong style="display:block;font-size:22px;margin:22px 0 10px">4.查看仓库历史记录</strong>
